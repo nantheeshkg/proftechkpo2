@@ -1,0 +1,254 @@
+.home {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 3844px;
+  position: relative;
+}
+
+.home .overlap {
+  position: absolute;
+  width: 1920px;
+  height: 67px;
+  top: 0;
+  left: 0;
+  background-color: #1bc6eb;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-color: #000000;
+}
+
+.home .text-wrapper {
+  position: absolute;
+  top: 13px;
+  left: 704px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .overlap-group {
+  position: absolute;
+  width: 1920px;
+  height: 298px;
+  top: 67px;
+  left: 0;
+}
+
+.home .rectangle {
+  position: absolute;
+  width: 1920px;
+  height: 128px;
+  top: 0;
+  left: 0;
+  background-color: #1bc6eb;
+}
+
+.home .IMG {
+  position: absolute;
+  width: 223px;
+  height: 89px;
+  top: 20px;
+  left: 32px;
+  object-fit: cover;
+}
+
+.home .rectangle-2 {
+  position: absolute;
+  width: 1920px;
+  height: 172px;
+  top: 126px;
+  left: 0;
+  background-color: #963333;
+}
+
+.home .text-wrapper-2 {
+  top: 168px;
+  left: 858px;
+  color: #ffffff;
+  font-size: 72px;
+  position: absolute;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .text-wrapper-3 {
+  top: 35px;
+  left: 563px;
+  color: #000000;
+  font-size: 30px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .text-wrapper-4 {
+  position: absolute;
+  top: 37px;
+  left: 702px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .text-wrapper-5 {
+  position: absolute;
+  top: 37px;
+  left: 878px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .text-wrapper-6 {
+  position: absolute;
+  top: 37px;
+  left: 1078px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .text-wrapper-7 {
+  position: absolute;
+  top: 37px;
+  left: 1444px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .text-wrapper-8 {
+  top: 37px;
+  left: 1558px;
+  color: #000000;
+  font-size: 28px;
+  position: absolute;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .text-wrapper-9 {
+  position: absolute;
+  top: 37px;
+  left: 1720px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .img {
+  position: absolute;
+  width: 1168px;
+  height: 1523px;
+  top: 368px;
+  left: 355px;
+  object-fit: cover;
+}
+
+.home .rectangle-3 {
+  position: absolute;
+  width: 1168px;
+  height: 1574px;
+  top: 1891px;
+  left: 355px;
+  object-fit: cover;
+}
+
+.home .group {
+  position: absolute;
+  width: 1926px;
+  height: 256px;
+  top: 3588px;
+  left: 0;
+}
+
+.home .overlap-group-2 {
+  position: relative;
+  width: 1920px;
+  height: 256px;
+  background-color: #02584d;
+}
+
+.home .text-wrapper-10 {
+  position: absolute;
+  top: 11px;
+  left: 772px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .p {
+  position: absolute;
+  top: 70px;
+  left: 673px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .element-floor {
+  position: absolute;
+  width: 721px;
+  top: 117px;
+  left: 599px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.home .rectangle-4 {
+  position: absolute;
+  width: 1920px;
+  height: 53px;
+  top: 203px;
+  left: 0;
+  background-color: #02584e;
+  border-top-width: 2px;
+  border-top-style: solid;
+  border-color: #000000;
+}
